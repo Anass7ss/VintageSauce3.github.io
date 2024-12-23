@@ -1,0 +1,55 @@
+#menback {
+    margin-top: 160px;
+    margin-bottom: 30px;
+    background-image: url(../resized/men’s\ products\ \(1\).png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#womenback {
+    margin-top: 160px;
+    margin-bottom: 30px;
+    background-image: url(../resized/Women’s\ products.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#kidsback {
+    margin-top: 160px;
+    margin-bottom: 30px;
+    background-image: url(../resized/KID’s\ products\ \(2\).png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#accessoriesback {
+    margin-top: 160px;
+    margin-bottom: 30px;
+    background-image: url(../resized/Accessories\ products\ \(3\).png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#aboutback {
+    margin-top: 160px;
+    margin-bottom: 30px;
+    background-image: url(../resized/ABOUT\ US.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#contactback {
+    margin-top: 160px;
+    margin-bottom: 30px;
+    background-image: url(../resized/CONTACT\ US.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
